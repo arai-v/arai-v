@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=Vinicius%20Arai&reversal=true&textBg=false&animation=twinkling&strokeWidth=1&stroke=000000&fontAlignY=35&fontAlign=50&fontColor=00ff00"/>
 
-<!--
-**arai-v/arai-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8332A6&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARAI-V&theme=dracula">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align="center">
+     <img
+      alt="ara-v-status"
+      src="https://github-readme-stats.vercel.app/api?username=arai-v&show_icons=true&theme=react&count_private=true&include_all_commits"
+      height="182em">
+   <img
+      alt="arai-v-top-langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arai-v&show_icons=true&theme=react&layout=compact&langs_count=10"
+      height="182em">
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer"/>
