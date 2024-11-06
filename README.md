@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=Vinicius%20Arai&reversal=true&textBg=false&animation=twinkling&strokeWidth=1&stroke=000000&fontAlignY=35&fontAlign=50&fontColor=00ff00"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&reversal=true&textBg=false&animation=twinkling&strokeWidth=1&stroke=000000&fontAlignY=35&fontAlign=50&fontColor=00ff00"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8332A6&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!)](https://git.io/typing-svg)
 
